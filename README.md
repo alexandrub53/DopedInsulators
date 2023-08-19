@@ -1,5 +1,8 @@
 # DopedInsulators
-Crystal structures for doped insulating materials, V doped SrTiO3 and Cu lead phosphate apatite.
+Crystal structures for doped insulating materials, V doped SrTiO3 and Cu - doped lead phosphate apatite.
+
+The way these structures are obtained is described here: https://arxiv.org/abs/2308.07295 
+
 
 In QE Input files you will also find some example files. getbands.py runs with python2 (sorry!) and can be used as 
 'python2 getbands.py bands.out > bands.dat'
